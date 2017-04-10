@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="transparent_black">@color/transparent_black</item>
+        <item name="selected_tabtext">@color/selected_tabtext</item>
+        <item name="unselected_tabtext">@color/unselected_tabtext</item>
+        <item name="shuffle_grey">@color/shuffle_grey</item>
+		<item name="background_grey">@color/background_grey</item>
+		<item name="transparent">@color/transparent</item>
+        <item name="black">@color/black</item>
+		<item name="white">@color/white</item>-->
+    </style>
+
+</resources>
